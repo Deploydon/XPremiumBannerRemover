@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "X Premium Expiring Remover",
+    "name": "X Premium Banner Remover",
     "version": "1.0",
     "description": "Automatically removes the Premium Expiring banner on x.com",
     "content_scripts": [
